@@ -6,7 +6,7 @@
 ## Team Member
 |                                                                       Image                                                                        |  English Name  |  GitHub Username  |  Profile  |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------:|:-----------------:|:---------:|
-| ![doge](https://e7.pngegg.com/pngimages/891/908/png-clipart-shiba-inu-dogecoin-scalable-graphics-animated-dog-tv-shows-mammal-cat-like-mammal.png) |Tyler|Tylerzhangyi|I'm from G11|
+| ![doge](https://avatars.githubusercontent.com/u/144305826?u=427b7b8fcb9b0b9e204331ff5920be130274f4d0&v=4) |Tyler|Tylerzhangyi|I'm from G11|
 
 ## Notes Summary
 
