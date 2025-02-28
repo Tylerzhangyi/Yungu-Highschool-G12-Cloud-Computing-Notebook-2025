@@ -1,7 +1,7 @@
 # Yungu-Highschool-G12-Cloud-Computing-Notebook-2025
 
 ## Course Abstraction：
-+ I don't know 
++ Through an actual team collaboration project, master the Git basic operation and GitHub collaboration process, and establish a course notes management system.
 
 ## Team Member
 
