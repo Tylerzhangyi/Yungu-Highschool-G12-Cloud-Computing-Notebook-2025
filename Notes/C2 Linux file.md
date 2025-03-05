@@ -17,3 +17,4 @@
 |    /home    | 这是系统默认的使用者主文件夹(home directory) 。在新增一个一般使用者帐号时,默认的使用者主文件夹都会规范到这里来。<br/> ~:代表目前这个使用者的主文件夹. <br/>~dmtsai :则代表 dmtsai 的主文件夹. | 
 | /lib\<qual> | 用来存放与/lib不同的格式的二进制函数库,例如支持64位的/lib64函数库等                                                                                 |
 
+![](https://github.com/LiMuma/Yungu-Highschool-G12-Cloud-Computing-Notebook-2025/blob/main/Image/DD6808A1-CB3B-4EF7-A28E-94855C52D75D.png?raw=true)
